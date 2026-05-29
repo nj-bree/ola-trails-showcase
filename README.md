@@ -4,7 +4,7 @@
 
 A full-stack safari booking platform connecting high-end travellers with curated safari experiences across Africa. Features a polished client-facing interface, a complete booking flow with email confirmations, and an admin panel for operators — shipped with realistic pre-seeded demo data.
 
-🔗 **[View Live Site](https://ola-trails.onrender.com)**
+🔗 **[View Live Site](https://ola-trails.up.railway.app/)**
 
 ---
 
